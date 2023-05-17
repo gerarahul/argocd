@@ -18,6 +18,6 @@ service:
 color:
    circle: orange
    oval: pink
-   triangle: yellow
+   triangle: black
    rectangle: green
    square: red 
