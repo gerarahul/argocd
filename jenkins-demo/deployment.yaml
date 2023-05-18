@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: rgera0901/solar-system:29-f02fb6bdf208a4318cccd0aa0e922799da7d54d0
+      - image: rgera0901/solar-system:30-06f0d9776b5623451b3c92ffc283c9b79f28caa5
         name: solar-system
         ports: 
         - containerPort: 80
